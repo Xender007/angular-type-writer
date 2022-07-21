@@ -1,0 +1,19 @@
+{
+  "name": "type-writer-xs",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "description": "angular type writer",
+  "author": {
+    "name": "XeNDeR",
+    "url": "www.ixender.com"
+  },
+  "license": "ISC",
+  "keywords": ["type-writer","angular","typescript","typewriter effect","typewriter"]
+
+}
