@@ -80,7 +80,7 @@ export class TypeWriterXsComponent {
           clearInterval(typeingInterval);
           resolve();
         }
-      }, 100);
+      }, this.typeSpeed);
       
     });
     return this;
