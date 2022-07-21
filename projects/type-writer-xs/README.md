@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/language-typescript-green?style=round-square&logo=typescript" /> 
 <img src="https://img.shields.io/badge/angular-v14.0.0-%2361DBFB?style=round-square&logo=angular" />
 <a href="https://github.com/Xender007/angular-type-writer" target="_blank">
-<img src="https://img.shields.io/badge/version-v1.0.2-green?style=flat-round&logo=github" />
+<img src="https://img.shields.io/badge/version-v1.0.3-green?style=flat-round&logo=github" />
 </a>
 <a href="https://www.npmjs.com/package/react-ts-typewriter" target="_blank">
 <img src="https://img.shields.io/badge/package-npm-red?style=flat-square&logo=npm" />
