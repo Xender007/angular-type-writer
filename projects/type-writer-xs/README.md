@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/package-npm-red?style=flat-square&logo=npm" />
 </a>
 
-<img src="../../public/type-writer.gif" />
+<img src="./type-writer.gif" />
 </p>
 Angular Typewriter made with typescript language.
 
