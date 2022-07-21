@@ -7,8 +7,8 @@ type QueueItem = () => Promise<void>
 
 export class TypeWriterModules {
   private loop : boolean = false;
-  private typeSpeed : number = 80;
-  private deleteSpeed : number = 80;
+  private typeSpeed : number = 50;
+  private deleteSpeed : number = 50;
 }
 
 

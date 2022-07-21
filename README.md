@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/language-typescript-green?style=round-square&logo=typescript" /> 
 <img src="https://img.shields.io/badge/angular-v14.0.0-%2361DBFB?style=round-square&logo=angular" />
 <a href="https://github.com/Xender007/angular-type-writer" target="_blank">
-<img src="https://img.shields.io/badge/version-v1.1.0-green?style=flat-round&logo=github" />
+<img src="https://img.shields.io/badge/version-v1.1.1-green?style=flat-round&logo=github" />
 </a>
 <a href="https://www.npmjs.com/package/type-writer-xs" target="_blank">
 <img src="https://img.shields.io/badge/package-npm-red?style=flat-square&logo=npm" />
@@ -40,10 +40,10 @@ export default function InsideYourComponent() {
     <tr><td><b>Name</b></td><td><b>Type</b></td><td><b>Description</b></td><td><b>Required</b></td><td><b>Default</b></td></tr>
 </thead>
 <tbody>
-    <tr><td>userInput</td><td>string</td><td>Text to display as string </td><td>true</td><td></td></tr>
-    <tr><td>loop</td><td>boolean</td><td>Set to true if the typewriter should loop after finishing typing the string(s)</td><td>false</td><td>false</td></tr>
-    <tr><td>typeSpeed</td><td>number</td><td>How long (in ms) does the the typewriter wait after typing one character</td><td>false</td><td>30ms</td></tr>
-    <tr><td>deleteSpeed</td><td>number</td><td>How long (in ms) does the the typewriter wait after deleting one character</td><td>false</td><td>30ms</td></tr>
+    <tr><td>userInput</td><td>string</td><td>Text to display as string </td><td>true</td><td></td>' '</tr>
+    <tr><td>loop</td><td>boolean</td><td>Set to true if the typewriter should loop after finishing typing the string(s)</td><td>true</td><td>false</td></tr>
+    <tr><td>typeSpeed</td><td>number</td><td>How long (in ms) does the the typewriter wait after typing one character</td><td>true</td><td>50ms</td></tr>
+    <tr><td>deleteSpeed</td><td>number</td><td>How long (in ms) does the the typewriter wait after deleting one character</td><td>true</td><td>50ms</td></tr>
     <tr><td>typeString(userInput: string)</td><td>function()</td><td>It will start the typing animation</td><td></td><td></td></tr>
     <tr><td>pauseFor(duration: number)</td><td>function()</td><td>It will start pause the typing animation upto "duration"</td><td></td><td></td></tr>
     <tr><td>deleteUpto(chars : number)</td><td>function()</td><td>It will delete upto "chars" given by user.</td><td></td><td></td></tr>
