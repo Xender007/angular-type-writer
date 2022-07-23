@@ -1,6 +1,6 @@
 {
   "name": "type-writer-xs",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "peerDependencies": {
     "@angular/common": "^14.0.0",
     "@angular/core": "^14.0.0"
@@ -19,6 +19,9 @@
     "url": "https://github.com/Xender007/angular-type-writer.git"
   },
   "homepage": "https://github.com/Xender007/angular-type-writer.git#readme",
-  "keywords": ["type-writer","angular","typescript", "ts","angilar type writer","angular-typewriter" ,"typewriter effect","typewriter","angular-cli","Angular CLI"]
+  "keywords": ["type-writer","angular","typescript", "ts","angilar type writer",
+                "angular-typewriter" ,"typewriter effect","typewriter","angular-cli",
+                "Angular CLI", "typing","animated","animated text","text effect","cursor","blinking",
+                 "browser","component","latest", "auto typing", "simple typewriter", "typewriter browser"]
 
 }
