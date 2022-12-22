@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/language-typescript-green?style=round-square&logo=typescript" /> 
 <img src="https://img.shields.io/badge/angular-v14.0.0-%2361DBFB?style=round-square&logo=angular" />
 <a href="https://github.com/Xender007/angular-type-writer" target="_blank">
-<img src="https://img.shields.io/badge/version-v1.1.5-green?style=flat-round&logo=github" />
+<img src="https://img.shields.io/badge/version-v1.1.6-green?style=flat-round&logo=github" />
 </a>
 <a href="https://www.npmjs.com/package/type-writer-xs" target="_blank">
 <img src="https://img.shields.io/badge/package-npm-red?style=flat-square&logo=npm" />
@@ -42,7 +42,6 @@ export default function InsideYourComponent() {
 ```
 
 ## Inside Details
-
 <table>
 <thead>
     <tr><td><b>Name</b></td><td><b>Type</b></td><td><b>Description</b></td><td><b>Required</b></td><td><b>Default</b></td></tr>
