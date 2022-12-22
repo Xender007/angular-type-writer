@@ -74,7 +74,6 @@ export class TypeWriterXsComponent {
         let i = 0;
         const typeingInterval = setInterval(() => {
         this.ele.append(userInput[i]);
-        console.log("after going inside", userInput);
         i++;
         if(i >= userInput.length) {
           clearInterval(typeingInterval);
